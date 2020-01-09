@@ -1,4 +1,4 @@
-### Simple Singleton
+# Simple Singleton
 
 ## Problem
 You want to ensure that there is a maximum of one object of a class.
