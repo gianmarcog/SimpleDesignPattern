@@ -1,5 +1,6 @@
 public abstract class Building {
 
+    // Final Method specifies the order of the methods
     public final void templateMethod() {
         System.out.println("Start");
         excavateExcavationPit();
@@ -8,6 +9,7 @@ public abstract class Building {
         closeProject();
     }
 
+    // Final Method specifies the order of the methods
     protected final void excavateExcavationPit() {
         System.out.println("Excavate is starting");
     }
