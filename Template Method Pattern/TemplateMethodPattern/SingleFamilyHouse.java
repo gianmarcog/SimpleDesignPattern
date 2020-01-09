@@ -1,5 +1,6 @@
 public class SingleFamilyHouse extends Building{
 
+    // This class extends the Building abstract class. It have to override the building classes
     @Override
     protected void bodyshopSites() {
         System.out.println("Bit by Bit");
